@@ -23,7 +23,7 @@ open terminal → navigate to this folder (SummerSchool2019) and call run.sh<br>
 take the link with the ip that appears in the cmd and enter it with your browser
 
 ### Unbuntu
-open terminal → navigate to this folder (SummerSchool2019) and call run.bat<br>
+open terminal → navigate to this folder (SummerSchool2019) and call run.sh<br>
 take the link with the ip that appears in the cmd and enter it with your browser
 
 ### Windows Home (Docker Toolbox)
